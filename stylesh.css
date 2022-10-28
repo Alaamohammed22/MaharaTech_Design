@@ -1,0 +1,297 @@
+.topnav {
+    height: 50%;
+    background-color: rgb(78, 3, 3);
+    overflow: hidden;
+     
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .topnav1 a{
+
+    float: left;
+    color:black;
+    text-align: center;
+    padding: 16px 30px;
+    text-decoration: none;
+    font-size: 17px;
+
+  }
+  #softwaretesting{
+    padding-bottom: 50%;
+  }
+
+  .clear{
+
+    clear: both;
+  }
+
+  .left{
+
+    float: left;
+    
+  }
+
+  .small
+  {
+        width: 150px;
+ }
+
+ .imagecss{
+    padding: 5px;
+   margin: 0%;
+    
+  }
+  .imgdiv{
+
+    margin: auto;
+
+
+}
+.parent {
+  width: 99%;
+ margin: auto;
+}
+  
+.parent .aa{
+  float: left;
+}
+
+.head{
+    text-align: center;
+}
+.head1{
+  text-align: center;
+}
+.head2{
+  text-align: center;
+
+}
+.header{
+    color: darkred;
+   font-size: 25px;
+
+}
+
+.header1{
+  color: darkred;
+ font-size: 25px;
+
+}
+
+.header2{
+  color: darkred;
+ font-size: 25px;
+
+}
+
+.paragrph{
+
+    color: grey;
+}
+.aa{
+    width: 24%;
+    background-color:white;
+    margin: 3px;
+    border:  1px solid gray;
+    box-shadow: -11px 2px 138px -78px rgba(0,0,0,0.75);
+    border: 1px solid #000000;
+
+
+   /* margin: 10px; */
+ }
+
+  
+
+ .fleft{
+  float: left;
+}
+
+.fright{
+
+  float: right;
+}
+
+.clear{
+  clear: both;
+}
+
+ 
+.buttom1
+{
+width: 150px;
+height: 40px;
+border-radius: 30px;
+margin-left: 45%;
+
+}
+
+.buttom11
+{
+width: 150px;
+height: 40px;
+border-radius: 30px;
+
+}
+
+.divbuttom{
+ 
+  padding: 10%;
+
+}
+.all_div{
+  width:100%;
+   
+}
+.all_div img{
+  width: 30%;
+  margin-left: 40% ;
+}
+.W_50{
+  width: 50%;
+}
+.all_div .buttom1{
+  margin-top :30px; 
+  margin-left: 40%;
+  margin-bottom: 30px
+}
+
+
+.div_100
+{
+  margin-top: 50px;
+}
+.div_100 p{
+
+  padding: 5px;
+  width: 48%;
+}
+  
+  .head4{
+
+    color: darkred;
+    text-align: center;
+    font-size: 25px;
+
+  }
+
+  .person1{
+    width: 30%;
+  }
+  .person1 p{
+
+    font-size: medium;
+  }
+  .second_paragraph{
+    padding: 30px;
+
+  }
+.person1 h3{
+
+  margin-top: 50px;
+}   
+
+.circle{
+  text-align: center;
+  color: darkred;
+}
+.partner{
+text-align: center;
+color: darkred;
+
+}
+  .img33{
+
+    width: 6%;
+    height: 10%;
+    margin-top :5%;
+    margin-left:6%;
+
+  }
+  .topnav  {
+    background-image: url('photo/New-Slider-0.jpg');
+    background-size: 100% 100%;
+  }
+  #softwaretest{
+    color: white;
+    font-size: 40px;
+    
+  }
+
+  .bigdiv{
+
+    width: 100%;
+    height: 240px;
+    background-color: black;
+    margin-top: 5%;
+  }
+
+  .firstdivv{
+   width: 120%;
+   height: 100px;
+  }
+
+
+  .seconddivv{
+    width: 100%;
+    height: 120px;
+  }
+
+  .include1{
+    height: 120px;
+    width: 34%;
+  }
+  .include2{
+    width: 33%;
+    height: 120px;
+  }
+  .include3{
+    width: 33%;
+   height: 120px;
+   
+  }
+  .include1 p{
+    color: white;
+    font-size: medium;
+  }
+
+  .home1{
+
+    text-align: center;
+    font-size: medium;
+    color: white;
+  }
+
+  .fac1{
+ float: right;
+ margin-right: 7px;
+  }
+  .lin1{
+    margin-right: 7px;
+    float: right;
+
+  }
+  
+   .you1{
+    margin-right: 7px;
+    float: right;
+  
+
+
+   }
+
+   .socialicons{
+    color: white;
+   }
+  
+   
+
+  
